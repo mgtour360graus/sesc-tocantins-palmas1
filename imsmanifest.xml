@@ -2659,6 +2659,10 @@
 <file href="media/panorama_0E60841D_0564_B236_4190_412A4A9785FF_0/b/0/0_1.webp"/>
 <file href="media/panorama_0E60841D_0564_B236_4190_412A4A9785FF_0/b/0/1_0.webp"/>
 <file href="media/panorama_0E60841D_0564_B236_4190_412A4A9785FF_0/b/0/1_1.webp"/>
+      <file href="skin-fecomercio/config.json"/>
+      <file href="skin-fecomercio/mg360-fecomercio-motion-skin.bundle.js"/>
+      <file href="skin-fecomercio/assets/mouse-desktop.apng.png"/>
+      <file href="skin-fecomercio/assets/gestos-mobile.apng.png"/>
         </resource>
     </resources>
 </manifest>

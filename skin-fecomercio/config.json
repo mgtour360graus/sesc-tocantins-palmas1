@@ -1,0 +1,200 @@
+{
+  "version": "4.0.0-palmas",
+  "brand": {
+    "systemName": "SISTEMA FECOMÉRCIO",
+    "tourName": "SESC TOCANTINS · TOUR 360°",
+    "unitName": "Sesc Vila Aureny · Palmas",
+    "logo": "media/res_1673F361_0764_3C18_4184_D14094E1E07D_0.webp",
+    "tagline": "Cuidar das pessoas é a nossa essência.",
+    "colors": {
+      "blue": "#004C99",
+      "blueDark": "#003865",
+      "blueLight": "#0B78BF",
+      "yellow": "#F6BE00",
+      "gray": "#747678",
+      "white": "#FFFFFF"
+    }
+  },
+  "homeIndex": 6,
+  "intro": {
+    "eyebrow": "360° · VISITA VIRTUAL",
+    "title": "Explore do seu jeito.",
+    "description": "Um passeio imersivo pelo Sesc Tocantins. Escolha como navegar e descubra todos os ambientes.",
+    "background": "media/panorama_0E65B86E_0564_B212_4153_271E02675593_hd_t.jpg",
+    "desktopGuide": "skin-fecomercio/assets/mouse-desktop.apng.png",
+    "mobileGuide": "skin-fecomercio/assets/gestos-mobile.apng.png"
+  },
+  "map": {
+    "title": "Localização · Tênis Sesc",
+    "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5182.660805978786!2d-48.3112547!3d-10.3155418!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x933b30cf17e3f58b%3A0x7d7101cbb3ca15d0!2sT%C3%AAnis%20Sesc!5e1!3m2!1spt-BR!2sbr!4v1786914024801!5m2!1spt-BR!2sbr"
+  },
+  "contact": {
+    "phoneLabel": "(63) 3219-9100",
+    "phoneUrl": "tel:+556332199100",
+    "website": "https://www.sescto.com.br/"
+  },
+  "social": [
+    { "name": "Instagram", "url": "https://www.instagram.com/sesctocantins/", "accent": "#E1306C" },
+    { "name": "Facebook", "url": "https://www.facebook.com/sescto", "accent": "#1877F2" },
+    { "name": "YouTube", "url": "https://www.youtube.com/@SESCTO", "accent": "#FF0000" },
+    { "name": "LinkedIn", "url": "https://www.linkedin.com/company/sesctocantins/?originalSubdomain=br", "accent": "#0A66C2" },
+    { "name": "X", "url": "https://x.com/SescTO", "accent": "#111111" }
+  ],
+  "groups": [
+    {
+      "id": "entrada",
+      "number": "01",
+      "short": "Entrada",
+      "title": "Entrada & Recepção",
+      "eyebrow": "Bem-vindo ao Sesc Tocantins",
+      "description": "Comece por aqui e descubra todos os caminhos da unidade.",
+      "accent": "#0B78BF",
+      "surface": "#DDF2FF",
+      "destinations": [
+        { "label": "Fachada Principal A", "index": 0 },
+        { "label": "Fachada Principal B", "index": 1 },
+        { "label": "Fachada Lateral", "index": 2 },
+        { "label": "Vista aérea", "index": 3 },
+        { "label": "Entrada", "index": 4 },
+        { "label": "Recepção", "index": 6 },
+        { "label": "Centro de Relacionamento", "index": 7 },
+        { "label": "Praça de convivência", "index": 25 }
+      ]
+    },
+    {
+      "id": "odonto",
+      "number": "02",
+      "short": "Odontologia",
+      "title": "Odontologia",
+      "eyebrow": "Saúde e cuidado",
+      "description": "Conheça os espaços de atendimento odontológico da unidade.",
+      "accent": "#12AFC2",
+      "surface": "#DDFBFC",
+      "destinations": [
+        { "label": "Recepção Odonto", "index": 9 },
+        { "label": "Consultórios", "index": 10 }
+      ]
+    },
+    {
+      "id": "restaurante",
+      "number": "03",
+      "short": "Restaurante",
+      "title": "Restaurante",
+      "eyebrow": "Alimentação e convivência",
+      "description": "Visite os ambientes de alimentação e integração do Sesc.",
+      "accent": "#F08A19",
+      "surface": "#FFF0D8",
+      "destinations": [
+        { "label": "Restaurante", "index": 23 },
+        { "label": "Salão do restaurante", "index": 24 },
+        { "label": "Praça externa", "index": 25 }
+      ]
+    },
+    {
+      "id": "escola",
+      "number": "04",
+      "short": "Escola",
+      "title": "Escola",
+      "eyebrow": "Educação que transforma",
+      "description": "Percorra as salas e áreas de apoio da escola.",
+      "accent": "#E4B400",
+      "surface": "#FFF8C7",
+      "destinations": [
+        { "label": "Acesso da escola", "index": 33 },
+        { "label": "Sala dos Professores", "index": 34 },
+        { "label": "Sala 1", "index": 38 },
+        { "label": "Sala 2", "index": 41 },
+        { "label": "Sala 3", "index": 59 }
+      ]
+    },
+    {
+      "id": "esporte",
+      "number": "05",
+      "short": "Esporte",
+      "title": "Esporte & Lazer",
+      "eyebrow": "Movimento, saúde e bem-estar",
+      "description": "Explore academia, campos, quadras, piscinas, Pilates e ginásio.",
+      "accent": "#49A942",
+      "surface": "#E3F5DE",
+      "destinations": [
+        { "label": "Academia", "index": 11 },
+        { "label": "Pilates", "index": 26 },
+        { "label": "Campo de Futebol", "index": 28 },
+        { "label": "Quadras", "index": 31 },
+        { "label": "Piscinas", "index": 47 },
+        { "label": "Complexo esportivo", "index": 60 },
+        { "label": "Ginásio", "index": 65 }
+      ]
+    }
+  ],
+  "scenes": [
+    { "index": 0, "name": "Fachada Principal A", "group": "entrada", "thumb": "media/panorama_011EC692_0C00_FA1F_4163_5A8C712D0BED_t.webp" },
+    { "index": 1, "name": "Fachada Principal B", "group": "entrada", "thumb": "media/panorama_011966FA_0C00_DA0F_41A4_E73CE71E1B9A_t.webp" },
+    { "index": 2, "name": "Fachada Lateral", "group": "entrada", "thumb": "media/panorama_0197427C_0C00_DA0B_4121_B46F542E5130_t.webp" },
+    { "index": 3, "name": "Piscina · Vista aérea", "group": "entrada", "thumb": "media/panorama_02C15396_0C00_5A07_419C_7EF1CC1B834C_t.webp" },
+    { "index": 4, "name": "Entrada", "group": "entrada", "thumb": "media/panorama_0E661226_0564_9613_4195_1AF3AD52736D_t.webp" },
+    { "index": 5, "name": "Entrada · Acesso", "group": "entrada", "thumb": "media/panorama_0E66DC3A_0564_7273_4195_009336FC54E1_t.webp" },
+    { "index": 6, "name": "Recepção", "group": "entrada", "thumb": "media/panorama_0E65B86E_0564_B212_4153_271E02675593_t.webp" },
+    { "index": 7, "name": "Centro de Relacionamento", "group": "entrada", "thumb": "media/panorama_0E609CF7_0564_73F2_416A_FFC7F3F6FD4B_t.webp" },
+    { "index": 8, "name": "Atendimento", "group": "entrada", "thumb": "media/panorama_09C242D7_0564_B632_4194_4EDBAD190FC8_t.webp" },
+    { "index": 9, "name": "Odontologia", "group": "odonto", "thumb": "media/panorama_0E63D795_0564_9E36_4151_F5D295D78786_t.webp" },
+    { "index": 10, "name": "Odontologia · Consultório", "group": "odonto", "thumb": "media/panorama_0E6FCD91_0564_920E_4183_F2E1A5F27FB8_t.webp" },
+    { "index": 11, "name": "Academia 01", "group": "esporte", "thumb": "media/panorama_0E6F396D_0564_F216_4173_ACF01921A1C9_t.webp" },
+    { "index": 12, "name": "Academia 02", "group": "esporte", "thumb": "media/panorama_0E6F6050_0564_920F_417A_03BF5B1286F8_t.webp" },
+    { "index": 13, "name": "Academia 03", "group": "esporte", "thumb": "media/panorama_0E6F06F4_0564_9FF6_4189_02FA787D1A6A_t.webp" },
+    { "index": 14, "name": "Academia 04", "group": "esporte", "thumb": "media/panorama_0E6F6DFE_0564_ADF2_4184_9C33F009B3DC_t.webp" },
+    { "index": 15, "name": "Academia 05", "group": "esporte", "thumb": "media/panorama_0E6F25BB_0564_B272_4170_09EAACE0AB25_t.webp" },
+    { "index": 16, "name": "Academia 06", "group": "esporte", "thumb": "media/panorama_0E6F0C83_0564_B212_4190_10FA885D3CAF_t.webp" },
+    { "index": 17, "name": "Academia 07", "group": "esporte", "thumb": "media/panorama_0E60E30D_0564_9616_418D_2C17F7F577D1_t.webp" },
+    { "index": 18, "name": "Academia 08", "group": "esporte", "thumb": "media/panorama_0E6F09A3_0564_9211_4161_0D1862A9E695_t.webp" },
+    { "index": 19, "name": "Academia 09", "group": "esporte", "thumb": "media/panorama_0E60AFF0_0564_6E0F_4191_D3697C73006C_t.webp" },
+    { "index": 20, "name": "Academia 10", "group": "esporte", "thumb": "media/panorama_0E60E65D_0564_7E30_4165_9DB2CC0AA599_t.webp" },
+    { "index": 21, "name": "Academia · Área externa", "group": "esporte", "thumb": "media/panorama_0E618D0C_0565_9217_4170_3789B6021C2D_t.webp" },
+    { "index": 22, "name": "Academia · Acesso", "group": "esporte", "thumb": "media/panorama_0E6166D8_0565_BE3F_4191_CD2E49530E4B_t.webp" },
+    { "index": 23, "name": "Restaurante", "group": "restaurante", "thumb": "media/panorama_0E60616F_0565_9212_4191_0265B148451D_t.webp" },
+    { "index": 24, "name": "Restaurante · Salão", "group": "restaurante", "thumb": "media/panorama_0E61D358_0565_F63F_4191_12CA05056C3C_t.webp" },
+    { "index": 25, "name": "Praça de convivência", "group": "entrada", "thumb": "media/panorama_0E602F2C_0565_AE16_4166_295792F932D4_t.webp" },
+    { "index": 26, "name": "Pilates 01", "group": "esporte", "thumb": "media/panorama_0E60EF93_0564_6E32_4184_FF1E3EE1E795_t.webp" },
+    { "index": 27, "name": "Pilates 02", "group": "esporte", "thumb": "media/panorama_0E60527F_0564_96F2_4194_AF4C3FF17CB3_t.webp" },
+    { "index": 28, "name": "Campo de Futebol 01", "group": "esporte", "thumb": "media/panorama_0E603B61_0564_F611_4190_B05AA1989702_t.webp" },
+    { "index": 29, "name": "Campo de Futebol 02", "group": "esporte", "thumb": "media/panorama_0E601EA1_0564_AE11_414D_FBECDEAF79EB_t.webp" },
+    { "index": 30, "name": "Campo de Futebol 03", "group": "esporte", "thumb": "media/panorama_0E606EA8_0564_AE1F_4192_EE9A933A776E_t.webp" },
+    { "index": 31, "name": "Quadra 01", "group": "esporte", "thumb": "media/panorama_0E600F5E_0564_6E32_4181_F91F358335E3_t.webp" },
+    { "index": 32, "name": "Quadra 02", "group": "esporte", "thumb": "media/panorama_0E62CE7B_0564_6EF2_418E_5CFF382EF68E_t.webp" },
+    { "index": 33, "name": "Escola · Acesso", "group": "escola", "thumb": "media/panorama_0E63AF89_0567_AE11_418A_C9A8AACCEC98_t.webp" },
+    { "index": 34, "name": "Sala dos Professores 01", "group": "escola", "thumb": "media/panorama_0E63719D_0567_9236_4194_BB1CEE2418D5_t.webp" },
+    { "index": 35, "name": "Sala dos Professores 02", "group": "escola", "thumb": "media/panorama_0E63F258_0567_F63F_4191_6BE57271536B_t.webp" },
+    { "index": 36, "name": "Sala dos Professores 03", "group": "escola", "thumb": "media/panorama_0E63D138_0567_927E_4160_F897912BCC42_t.webp" },
+    { "index": 37, "name": "Sala dos Professores 04", "group": "escola", "thumb": "media/panorama_0E6381AE_0567_B212_4192_9CAC67CF9D39_t.webp" },
+    { "index": 38, "name": "Sala 1 · Entrada", "group": "escola", "thumb": "media/panorama_0E63D1D9_0567_9231_4177_587DB9AD37A9_t.webp" },
+    { "index": 39, "name": "Sala 1 · Interior A", "group": "escola", "thumb": "media/panorama_0E605F91_0564_6E0E_4188_BBFE3FBFDAD5_t.webp" },
+    { "index": 40, "name": "Sala 1 · Interior B", "group": "escola", "thumb": "media/panorama_0E63BEBE_0564_6E72_4180_48C3F4F32A7F_t.webp" },
+    { "index": 41, "name": "Sala 2 · Entrada", "group": "escola", "thumb": "media/panorama_0E60B90A_0564_9212_4184_91B2F4A6D716_t.webp" },
+    { "index": 42, "name": "Sala 2 · Interior A", "group": "escola", "thumb": "media/panorama_0E60841D_0564_B236_4190_412A4A9785FF_t.webp" },
+    { "index": 43, "name": "Sala 2 · Interior B", "group": "escola", "thumb": "media/panorama_0E601F5F_0564_AE32_4162_37941899FFC8_t.webp" },
+    { "index": 44, "name": "Quadra 03", "group": "esporte", "thumb": "media/panorama_0E60E92E_0564_9212_418A_3178414793ED_t.webp" },
+    { "index": 45, "name": "Quadra 04", "group": "esporte", "thumb": "media/panorama_0E601496_0564_F233_416E_CF1C7B991C80_t.webp" },
+    { "index": 46, "name": "Quadra 05", "group": "esporte", "thumb": "media/panorama_0E60CF55_0564_EE31_4193_2EF0D3E69D47_t.webp" },
+    { "index": 47, "name": "Piscinas 01", "group": "esporte", "thumb": "media/panorama_0E61EE47_0564_AE12_416A_AE61F495FCD5_t.webp" },
+    { "index": 48, "name": "Piscinas 02", "group": "esporte", "thumb": "media/panorama_0E61B9B1_0564_B271_4192_9847EBC55C9C_t.webp" },
+    { "index": 49, "name": "Piscinas 03", "group": "esporte", "thumb": "media/panorama_0E612281_0564_960E_4182_967E58BF44A3_t.webp" },
+    { "index": 50, "name": "Piscinas 04", "group": "esporte", "thumb": "media/panorama_0E619A2E_0564_9612_4181_389BC7EC01CF_t.webp" },
+    { "index": 51, "name": "Piscinas 05", "group": "esporte", "thumb": "media/panorama_0E61206E_0564_7212_4195_96EE2D357BF5_t.webp" },
+    { "index": 52, "name": "Piscinas 06", "group": "esporte", "thumb": "media/panorama_0E6146D5_0564_7E36_4192_FE371E55DF7A_t.webp" },
+    { "index": 53, "name": "Piscinas 07", "group": "esporte", "thumb": "media/panorama_0E66AD2B_0564_7212_4192_E33589C75225_t.webp" },
+    { "index": 54, "name": "Piscinas 08", "group": "esporte", "thumb": "media/panorama_0E6703E2_0565_9612_4153_1D013F4AECFB_t.webp" },
+    { "index": 55, "name": "Piscinas 09", "group": "esporte", "thumb": "media/panorama_0E675A43_0565_9610_4188_A2A146AAA3EC_t.webp" },
+    { "index": 56, "name": "Sala 3 · Acesso A", "group": "escola", "thumb": "media/panorama_0E6740B6_0565_B272_4177_892BF500C955_t.webp" },
+    { "index": 57, "name": "Sala 3 · Acesso B", "group": "escola", "thumb": "media/panorama_0E6786CC_0565_BE16_4187_118568E92FA2_t.webp" },
+    { "index": 58, "name": "Sala 3 · Interior A", "group": "escola", "thumb": "media/panorama_0E674CE2_0565_B212_4194_DD927C042BC8_t.webp" },
+    { "index": 59, "name": "Sala 3 · Interior B", "group": "escola", "thumb": "media/panorama_0E6792F5_0565_97F1_4172_DC2744148FBD_t.webp" },
+    { "index": 60, "name": "Complexo esportivo · Acesso", "group": "esporte", "thumb": "media/panorama_0E67B917_0565_9232_4194_3E4A65C9D38F_t.webp" },
+    { "index": 61, "name": "Quadra de tênis", "group": "esporte", "thumb": "media/panorama_0E67CF4E_0565_EE12_418A_C78567064E63_t.webp" },
+    { "index": 62, "name": "Complexo esportivo · Circulação A", "group": "esporte", "thumb": "media/panorama_0E67C5A8_0565_F21F_4181_CC2289DC9357_t.webp" },
+    { "index": 63, "name": "Complexo esportivo · Circulação B", "group": "esporte", "thumb": "media/panorama_0E666C8B_0565_F212_4194_C07545301EDB_t.webp" },
+    { "index": 64, "name": "Complexo esportivo · Piscinas e quadras", "group": "esporte", "thumb": "media/panorama_0E6673B5_0565_9671_417F_93A4F4CE0F74_t.webp" },
+    { "index": 65, "name": "Ginásio 01", "group": "esporte", "thumb": "media/panorama_0E66DAF7_0565_97F2_4182_0B7B42D8B4D9_t.webp" },
+    { "index": 66, "name": "Ginásio 02", "group": "esporte", "thumb": "media/panorama_0E66BC40_0565_B20E_418C_E78E220A5D8C_t.webp" },
+    { "index": 67, "name": "Ginásio 03", "group": "esporte", "thumb": "media/panorama_0E656914_0565_9236_4192_90AF4C89BE4E_t.webp" }
+  ]
+}
