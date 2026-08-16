@@ -1,0 +1,54 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_1901DD59_0AB9_1D69_418E_E399571F3E3E.source = https://mgtour360.com.br/
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_1CD7DD3B_0C00_2E0D_41A2_F00873D59782.toolTip = gINÁSIO
+
+## Media
+
+### Audio
+audiores_19D0A1CE_0B5F_256A_418A_02DCF9820993.url = media/audio_185C0ADB_0B49_6769_4195_657A7A4BEED1_pt.mp3
+
+### Audio Subtitles
+
+### Title
+panorama_0E6F396D_0564_F216_4173_ACF01921A1C9.label = Academia
+panorama_0E603B61_0564_F611_4190_B05AA1989702.label = Campo
+panorama_0E609CF7_0564_73F2_416A_FFC7F3F6FD4B.label = Centro de Relacionamento
+panorama_09C242D7_0564_B632_4194_4EDBAD190FC8.label = Centro de Relacionamento
+panorama_0E661226_0564_9613_4195_1AF3AD52736D.label = Entrada
+panorama_0197427C_0C00_DA0B_4121_B46F542E5130.label = Fachada Lateral
+panorama_011EC692_0C00_FA1F_4163_5A8C712D0BED.label = Fachada Principal A
+panorama_011966FA_0C00_DA0F_41A4_E73CE71E1B9A.label = Fachada Principal B
+panorama_0E66DAF7_0565_97F2_4182_0B7B42D8B4D9.label = Ginásio
+panorama_0E63D795_0564_9E36_4151_F5D295D78786.label = Odontologia
+panorama_0E61EE47_0564_AE12_416A_AE61F495FCD5.label = PISCINAS
+panorama_0E60EF93_0564_6E32_4184_FF1E3EE1E795.label = Pilates
+panorama_02C15396_0C00_5A07_419C_7EF1CC1B834C.label = Piscina Aérea
+panorama_0E60E92E_0564_9212_418A_3178414793ED.label = QUADRA
+panorama_0E600F5E_0564_6E32_4181_F91F358335E3.label = Quada
+panorama_0E62CE7B_0564_6EF2_418E_5CFF382EF68E.label = Quada
+panorama_0E60616F_0565_9212_4191_0265B148451D.label = Restaurante
+panorama_0E6792F5_0565_97F1_4172_DC2744148FBD.label = SALA 3
+panorama_0E63D1D9_0567_9231_4177_587DB9AD37A9.label = Sala 1
+panorama_0E60B90A_0564_9212_4184_91B2F4A6D716.label = Sala 2
+panorama_0E63719D_0567_9236_4194_BB1CEE2418D5.label = Sala do professores
+
+## Right Click Menu
+
+### Text
+menuItem_19D1040B_0AB9_22E9_41A1_E3923E945F36.label = BY MG TOUR 360 GRAUS 
+
+## Tour
+
+### Description
+tour.description = Conheça o Tênis Sesc em Palmas, Tocantins, em uma visita virtual 360°.
+
+### Title
+tour.name = Tênis Sesc - Palmas, Tocantins | Tour 360°
