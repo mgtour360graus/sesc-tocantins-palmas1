@@ -12,9 +12,9 @@
     </metadata>
     <organizations default="tdv">
         <organization identifier="tdv">
-            <title>SESC Tocantins -Palmas </title>
+            <title>Tênis Sesc - Palmas, Tocantins | Tour 360°</title>
             <item identifier="i1" identifierref="r1" isvisible="true">
-                <title>SESC Tocantins -Palmas </title>
+                <title>Tênis Sesc - Palmas, Tocantins | Tour 360°</title>
             </item>
         </organization>
     </organizations>

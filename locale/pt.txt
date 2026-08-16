@@ -48,7 +48,7 @@ menuItem_19D1040B_0AB9_22E9_41A1_E3923E945F36.label = BY MG TOUR 360 GRAUS
 ## Tour
 
 ### Description
-tour.description = Faça um Tour 2m 360 Graus 
+tour.description = Conheça o Tênis Sesc em Palmas, Tocantins, em uma visita virtual 360°.
 
 ### Title
-tour.name = SESC Tocantins -Palmas 
+tour.name = Tênis Sesc - Palmas, Tocantins | Tour 360°
