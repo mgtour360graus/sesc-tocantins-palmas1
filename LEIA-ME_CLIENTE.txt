@@ -1,5 +1,6 @@
 TÊNIS SESC - PALMAS, TOCANTINS | TOUR 360°
 Projeto final para publicação - 16/08/2026
+Revisão 4.2 - legibilidade mobile e tablet, compartilhamento e acesso VR homologados em diferentes tamanhos e orientações.
 
 ARQUIVO INICIAL
 index.htm
@@ -14,6 +15,9 @@ NAVEGADORES E DISPOSITIVOS
 - macOS e iOS/iPadOS: Safari atual.
 - Android: Google Chrome atual.
 - Compatível com desktops, notebooks, tablets, celulares e orientação paisagem.
+- No mobile, os textos, botões e áreas de toque foram ampliados sem alterar as panorâmicas ou os hotspots nativos do 3DVista.
+- O botão Compartilhar usa o compartilhamento nativo do aparelho quando disponível; caso contrário, copia o link do tour.
+- O botão com símbolo de óculos ativa a função VR nativa do 3DVista em dispositivos e navegadores compatíveis.
 - O Internet Explorer 11 foi descontinuado pela Microsoft e não integra a homologação deste projeto.
 
 OBSERVAÇÕES
