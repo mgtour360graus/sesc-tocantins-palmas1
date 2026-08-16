@@ -2,9 +2,10 @@
   "version": "4.0.0-palmas",
   "brand": {
     "systemName": "SISTEMA FECOMÉRCIO",
-    "tourName": "SESC TOCANTINS · TOUR 360°",
+    "tourName": "Tênis Sesc - Palmas, Tocantins - TOUR 360°",
     "unitName": "Sesc Vila Aureny · Palmas",
     "logo": "media/res_1673F361_0764_3C18_4184_D14094E1E07D_0.webp",
+    "cornerLogo": "skin-fecomercio/assets/sesc-1x1-colorido.png",
     "tagline": "Cuidar das pessoas é a nossa essência.",
     "colors": {
       "blue": "#004C99",
