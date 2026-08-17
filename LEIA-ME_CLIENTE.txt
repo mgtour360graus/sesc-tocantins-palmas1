@@ -1,6 +1,6 @@
 TÊNIS SESC - PALMAS, TOCANTINS | TOUR 360°
 Projeto final para publicação - 16/08/2026
-Revisão 4.2 - legibilidade mobile e tablet, compartilhamento e acesso VR homologados em diferentes tamanhos e orientações.
+Revisão 4.3 - rodapé mobile refinado, nome do ambiente centralizado e acesso VR com o ícone institucional aprovado.
 
 ARQUIVO INICIAL
 index.htm
