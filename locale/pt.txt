@@ -51,4 +51,4 @@ menuItem_19D1040B_0AB9_22E9_41A1_E3923E945F36.label = BY MG TOUR 360 GRAUS
 tour.description = Faça um Tour 2m 360 Graus 
 
 ### Title
-tour.name = Sesc Aureny - Palmas
+tour.name = Sesc Aureny
